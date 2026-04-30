@@ -14,7 +14,6 @@ https://github.com/muskan8006/website-
 - Responsive design (mobile + desktop)
 - Clean and modern UI
 - Beginner-friendly code structure
-- Fast and lightweight
 - Easy to customize
 
 ---
